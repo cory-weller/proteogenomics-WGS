@@ -1,0 +1,4 @@
+00_FASTQ/*.fastq.gz
+00_FASTQ/*.fastq
+01_BAM/*.bam
+01_BAM/*.bai
