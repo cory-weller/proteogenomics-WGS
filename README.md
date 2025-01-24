@@ -11,8 +11,3 @@ Whole genome genotyping using deepvariant on Biowulf
 ## Alignment
 `00_FASTQ` `->` `01_BAM`
 
-
-
-# ID
-# R1
-# R2
